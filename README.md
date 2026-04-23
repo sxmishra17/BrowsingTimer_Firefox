@@ -82,4 +82,4 @@ Search **"Browsing Timer"** on [addons.mozilla.org](https://addons.mozilla.org)
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+All Rights Reserved — free to use, modify, and distribute.
